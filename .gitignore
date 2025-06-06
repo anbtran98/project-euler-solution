@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+!Makefile
+!newSolve.sh
+!solve.cpp
+!README.md
+!solutions/
+!solutions/*.cpp
+!solutions/res/
+!solutions/res/*.txt
